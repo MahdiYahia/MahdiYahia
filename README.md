@@ -5,7 +5,7 @@ Software Developer and Cloud Practitioner
 -----------------------------------------
 
 A fast-learner and a highly driven Software Engineering student at the Budapest University of Technology and Economics. I have worked with multiple programming tools and currently I am working on cloud based applications.
-### Skills 
+### Tools 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
