@@ -28,5 +28,5 @@ I worked with multiple programming tools and currently I am working on cloud bas
 
 ### Badges
 <b>My GitHub Stats</b><br>
-<a href="https://github.com/MahdiYahia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiYahia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=TopLanguages" alt="Top Languages" /></a><br>
+<a href="https://github.com/MahdiYahia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiYahia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top Languages" alt="Top Languages" /></a><br>
 <a href="http://www.github.com/MahdiYahia"><img src="https://github-readme-stats.vercel.app/api?username=MahdiYahia&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MahdiYahia's GitHub stats" /></a>
