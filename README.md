@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahdi Yahia
 ===================================================================================================================================
 
-Software Developer and Cloud Practitioner
+DevOps Developer and Cloud Practitioner
 -----------------------------------------
 
 A fast-learner and a highly driven Software Engineering student at the Budapest University of Technology and Economics and AWS certified Cloud Practitioner.
